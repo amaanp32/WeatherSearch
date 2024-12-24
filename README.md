@@ -1,5 +1,3 @@
-# WeatherSearch App
-
 A simple weather app that allows users to search and save cities to view their weather information. The app fetches weather data from the [OpenWeather API](https://openweathermap.org/). The cities are saved to the browser's localStorage so that they persist even after a page reload.
 
 ## Features
@@ -17,7 +15,7 @@ You can view the live demo of this weather app [here](#).
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/amaanp32/weathersearch.git
+   git clone https://github.com/your-username/weather-app.git
 Navigate into the project directory:
 
 bash
