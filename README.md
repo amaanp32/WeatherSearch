@@ -1,3 +1,4 @@
+# Weather App
 A simple weather app that allows users to search and save cities to view their weather information. The app fetches weather data from the [OpenWeather API](https://openweathermap.org/). The cities are saved to the browser's localStorage so that they persist even after a page reload.
 
 ## Features
@@ -9,7 +10,7 @@ A simple weather app that allows users to search and save cities to view their w
 
 ## Demo
 
-You can view the live demo of this weather app [here](#).
+You can view the live demo of this weather app [here](https://amaanp32.github.io/WeatherSearch/).
 
 ## Installation
 
